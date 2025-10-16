@@ -1,2 +1,2 @@
 #!/bin/bash
-TRUEKNOWLEDGE=$(expr 60 + 68)
+export TRUEKNOWLEDGE=$(expr 60 + 68)
