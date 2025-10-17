@@ -1,2 +1,2 @@
 #!/bin/bash
-echo " " | rev
+read -p "Enter text " | rev
